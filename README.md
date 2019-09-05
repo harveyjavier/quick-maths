@@ -25,4 +25,4 @@ Simply clone the project and open it on the Corona simulator by selecting the ma
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
