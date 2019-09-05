@@ -1,2 +1,2 @@
-# quick-maths
+# Quick Maths
 A simple arithmetic arcade game template.
