@@ -1,5 +1,7 @@
 # Quick Maths
 
+![Demo](https://github.com/harveyjavier/quick-maths/assets/img/gif.gif)
+
 A simple arithmetic arcade game template.
 
 ## Getting Started
