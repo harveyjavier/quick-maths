@@ -1,6 +1,6 @@
 # Quick Maths
 
-![Demo](https://github.com/harveyjavier/quick-maths/blob/develop/assets/img/gif.gif)
+![Demo](https://github.com/harveyjavier/quick-maths/blob/develop/assets/img/feature.png)
 
 A simple arithmetic arcade game template.
 
