@@ -67,7 +67,7 @@ local function validate(ans)
 		score = score + 1
 		r = math.random(1, 28)
 
-		scoreTxt.text = tostring(score)
+		scoreTxt.text = "score: "..tostring(score)
 		timerTxt.text = tostring(time)
 		problemTxt.text = problems[r].problem
 	else
