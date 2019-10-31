@@ -23,7 +23,7 @@ Simply clone the project and open it on the Corona simulator by selecting the ma
 
 ## Author
 
-* **Harvey Javier**
+* **Harvz**
 
 <a href="https://hrvzz.com"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/website-icon.png" width="60"></a>
 <a href="https://play.google.com/store/apps/dev?id=4935714394750436171"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/play-store-icon.png" width="60"></a>
