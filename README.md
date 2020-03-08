@@ -25,7 +25,7 @@ Simply clone the project and open it on the Corona simulator by selecting the ma
 
 * **Harvz**
 
-<a href="https://hrvzz.com"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/website-icon.png" width="60"></a>
+<a href="https://harveyjavier.github.io/"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/website-icon.png" width="60"></a>
 <a href="https://play.google.com/store/apps/dev?id=4935714394750436171"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/play-store-icon.png" width="60"></a>
 <a href="https://www.linkedin.com/in/harvz/"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/linkedin-icon.png" width="60"></a>
 <a href="https://www.facebook.com/harvzjavier"><img src="https://github.com/harveyjavier/bicolit/blob/develop/raw/facebook-icon.png" width="60"></a>
